@@ -503,7 +503,7 @@ progress::-webkit-progress-value {
         margin:5px;
     }
     .admin_profile-button{
-        padding:3x;
+        padding:3px;
         border-radius: 6px;
         background: var(--grey-200);
         color: var(--font-light);
